@@ -3,9 +3,7 @@
 Hej! Jestem Jakub i studiuję na __AGH__.\
 Moją pasją jest komputer i programowanie.\
 Chce się szybko rozwijać więc każda porada dla początkującego programisty bedzie przydatna.\
- A, i _uwielbiam_ koty🐱🐈
- 
- MentalHealth - https://github.com/Shikoqu/MentalHealthPlatform.git
+A, i _uwielbiam_ koty🐱🐈
  
 <!--
 **Shikoqu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
