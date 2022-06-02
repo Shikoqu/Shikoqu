@@ -4,6 +4,8 @@ Hej! Jestem Jakub i studiuję na __AGH__.\
 Moją pasją jest komputer i programowanie.\
 Chce się szybko rozwijać więc każda porada dla początkującego programisty bedzie przydatna.\
 A, i _uwielbiam_ koty🐱🐈
+
+[Github Pages](https://shikoqu.github.io/)
  
 <!--
 **Shikoqu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
