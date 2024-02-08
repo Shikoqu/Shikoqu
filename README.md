@@ -17,6 +17,6 @@
 
 ## 👾 GitHub Stats:
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=shikoqu&show_icons=true&hide=contribs,prs&count_private=true&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=shikoqu&show_icons=true&count_private=true&theme=codeSTACKr)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shikoqu&layout=compact&theme=radical)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shikoqu&layout=donut&theme=codeSTACKr)
