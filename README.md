@@ -1,23 +1,22 @@
-### Hi there 👋
+# Hello There 👋
 
-Hej! Jestem Jakub i studiuję na __AGH__.\
-Moją pasją jest komputer i programowanie.\
-Chce się szybko rozwijać więc każda porada dla początkującego programisty bedzie przydatna.\
-A, i _uwielbiam_ koty🐱🐈
+## 📌 Some of My Info:
+- 👨‍🎓 a third-year Computer Science and Intelligent Systems bachelor's degree student at [AGH University](https://www.agh.edu.pl/en/).
+- 🇵🇱 Polish nationality
+- 😸 I love cats
 
-[Github Pages](https://shikoqu.github.io/)
- 
+## 🧩 Favourite Languages & Tools:
+- Python
+- VS Code
+- Obsidian
+
 <!--
-**Shikoqu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🤝 Let's Connect:
+- LinkedIn: [Your LinkedIn Profile](Link to LinkedIn)
+--->
 
-Here are some ideas to get you started:
+## 👾 GitHub Stats:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=shikoqu&show_icons=true&hide=contribs,prs&count_private=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shikoqu&layout=compact&theme=radical)
