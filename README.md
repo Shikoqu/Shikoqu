@@ -1,13 +1,13 @@
 # Hello There 👋
 
 ## 📌 Some of My Info:
-- 👨‍🎓 a third-year Computer Science and Intelligent Systems bachelor's degree student at [AGH University](https://www.agh.edu.pl/en/).
+- 👨‍🎓 a third-year Computer Science and Intelligent Systems bachelor's degree student at [AGH University of Kraków](https://www.agh.edu.pl/en/).
 - 🇵🇱 Polish nationality
-- 😸 I love cats
+- 😸 I love cats and bikes 🚲
 
 
 ## 🤝 Let's Connect:
-- [LinkedIn](www.linkedin.com/in/jakub-wadrzyk)
+- [LinkedIn](https://www.linkedin.com/in/jakub-wadrzyk)
 
 
 ## 🧩 Favourite Languages & Tools:
