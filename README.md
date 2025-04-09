@@ -1,7 +1,7 @@
-# Hello There 👋
+# Hi there 👋
 
 ## 📌 Some of My Info:
-- 👨‍🎓 a third-year Computer Science and Intelligent Systems bachelor's degree student at [AGH University of Kraków](https://www.agh.edu.pl/en/).
+- 👨‍🎓 a Computer Science and Intelligent Systems bachelor's degree student at [AGH University of Kraków](https://www.agh.edu.pl/en/).
 - 🇵🇱 Polish nationality
 - 😸 I love cats and bikes 🚲
 
@@ -14,8 +14,6 @@
 - Python
 - VS Code
 - Obsidian
-
-Check out [my setup](https://github.com/Shikoqu/my-setup) 💻.
 
 
 ## 👾 GitHub Stats:
