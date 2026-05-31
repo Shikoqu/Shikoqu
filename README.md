@@ -1,9 +1,10 @@
 # Hi there 👋
 
 ## 📌 Some of My Info:
-- 👨‍🎓 a Computer Science and Intelligent Systems bachelor's degree student at [AGH University of Kraków](https://www.agh.edu.pl/en/).
-- 🇵🇱 Polish nationality
 - 😸 I love cats and bikes 🚲
+- 👨‍🎓 Bachelor's degree in Computer Science and Intelligent Systems at [AGH University of Kraków](https://www.agh.edu.pl/en/)
+- 📖 I enjoy a good read. Current favourites: *The Dictionary of Obscure Sorrows by John Koenig* & *The King in Yellow by Robert W. Chambers*
+- 🇵🇱 Polish nationality
 
 
 ## 🤝 Let's Connect:
@@ -11,12 +12,10 @@
 
 
 ## 🧩 Favourite Languages & Tools:
-- Python
-- VS Code
-- Obsidian
+- Python 🐍 & Rust 🦀
+- Zed
+- Aerospace
+- Files.md
+- Vivaldi
 
-
-## 👾 GitHub Stats:
-
-![Stats](https://github-readme-stats.vercel.app/api?username=shikoqu&show_icons=true&count_private=true&theme=codeSTACKr)  
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shikoqu&layout=donut&theme=codeSTACKr)
+Check out my setup: [Dotfiles](https://github.com/Shikoqu/Dotfiles)
